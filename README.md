@@ -1,6 +1,6 @@
 # Lumen Config Discover
 
-Lumen Config Discover is a package to your configuration files with ease using teh power of the `Service Providers`.
+Lumen Config Discover is a package to your configuration files with ease using the power of the `Service Providers`.
 
 ## Why? Lumen does not support config files?
 
