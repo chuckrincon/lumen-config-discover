@@ -1,0 +1,25 @@
+{
+    "name": "chuckrincon/lumen-config-discover",
+    "description": "Load your Lumen configuration files with ease using the Service Providers.",
+    "keywords": ["framework", "laravel", "lumen", "config", "service provider"],
+    "license": "MIT",
+    "homepage": "https://github.com/chuckrincon/lumen-config-discover",
+    "support": {
+        "issues": "https://github.com/chuckrincon/lumen-config-discover/issues",
+        "source": "https://github.com/chuckrincon/lumen-config-discover"
+    },
+    "authors": [
+        {
+            "name": "Chuck Rincon",
+            "email": "chuckrincon@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chuckrincon\\LumenConfigDiscover\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
